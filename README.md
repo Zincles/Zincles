@@ -1,9 +1,4 @@
-- 👋 I’m @Zincles
-- 👀 A poor developer.
-- 🌱 24 years old, a student.
-- 💞️ Why not have some red tea?
-- 📫 114514!1919810!
-
+-Just a noob developer
 
 <!---
 Zincles/Zincles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
